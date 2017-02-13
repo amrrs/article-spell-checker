@@ -70,4 +70,4 @@ non_dict_words
 
     ['USB', 'Bluetooth', 'bluetooth', 'blueteeth', 'eBay', 'handsfree']
 
-## Oops - Not-so-intelligent Spell-Checker thinks these millenial words are non-English ;)
+### Oops - Not-so-intelligent Spell-Checker thinks these millenial words are non-English ;)
