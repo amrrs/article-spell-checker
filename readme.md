@@ -1,5 +1,5 @@
 
-## Article Spell-Checking with Newspaper (The wonderful article summarization PyLib)
+## Article Spell-Checking with Newspaper (The wonderful article summarization Python Library)
 
 ### Importing Newspaper for article extraction, PyEnchant for Spell Checking, re & nltk for text operations
 
